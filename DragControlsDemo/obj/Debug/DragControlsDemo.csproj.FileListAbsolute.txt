@@ -1,0 +1,11 @@
+C:\Users\SaLaaR HuSyN\source\repos\DragControlsDemo\DragControlsDemo\bin\Debug\DragControlsDemo.exe.config
+C:\Users\SaLaaR HuSyN\source\repos\DragControlsDemo\DragControlsDemo\bin\Debug\DragControlsDemo.exe
+C:\Users\SaLaaR HuSyN\source\repos\DragControlsDemo\DragControlsDemo\bin\Debug\DragControlsDemo.pdb
+C:\Users\SaLaaR HuSyN\source\repos\DragControlsDemo\DragControlsDemo\bin\Debug\Control.Draggable.dll
+C:\Users\SaLaaR HuSyN\source\repos\DragControlsDemo\DragControlsDemo\obj\Debug\DragControlsDemo.csprojResolveAssemblyReference.cache
+C:\Users\SaLaaR HuSyN\source\repos\DragControlsDemo\DragControlsDemo\obj\Debug\DragControlsDemo.Form1.resources
+C:\Users\SaLaaR HuSyN\source\repos\DragControlsDemo\DragControlsDemo\obj\Debug\DragControlsDemo.Properties.Resources.resources
+C:\Users\SaLaaR HuSyN\source\repos\DragControlsDemo\DragControlsDemo\obj\Debug\DragControlsDemo.csproj.GenerateResource.Cache
+C:\Users\SaLaaR HuSyN\source\repos\DragControlsDemo\DragControlsDemo\obj\Debug\DragControlsDemo.csproj.CoreCompileInputs.cache
+C:\Users\SaLaaR HuSyN\source\repos\DragControlsDemo\DragControlsDemo\obj\Debug\DragControlsDemo.exe
+C:\Users\SaLaaR HuSyN\source\repos\DragControlsDemo\DragControlsDemo\obj\Debug\DragControlsDemo.pdb

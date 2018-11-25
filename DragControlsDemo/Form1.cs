@@ -20,10 +20,19 @@ namespace DragControlsDemo
         private void Form1_Load(object sender, EventArgs e)
         {
             ControlExtension.Draggable(button1, true);
-            ControlExtension.Draggable(textBox1, true);
+            ControlExtension.Draggable(txtImage, true);
             ControlExtension.Draggable(comboBox1, true);
             ControlExtension.Draggable(panel1, true);
             ControlExtension.Draggable(label1, true);
+        }
+
+        private void button2_Click(object sender, EventArgs e)
+        {
+            using (var bmp = new Bitmap(MyPanel.Width,MyPanel.Height))
+            {
+                MyPanel.DrawToBitmap(bmp, new Rectangle(0,0, bmp.Width,bmp.Height));
+                bmp.Save(@"images/"+ txtImage.Text+".bmp");
+            }
         }
     }
 }
